@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="140px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreepngimg.com%2Fpng%2F14960-php-logo-png&psig=AOvVaw0VluyCk89DgQPSWuo7dwlX&ust=1709079805351000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDOr8egyoQDFQAAAAAdAAAAABAh" align="center" alt="PHP logo" />
+  <img height="140px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" align="center" alt="PHP logo" />
   <h2 align="center">PHP Exercises</h2>
   <p align="center">The purpose of the exercises is to provide an opportunity to practice skills using the PHP language.
  </p>
